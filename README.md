@@ -9,4 +9,6 @@ Skills demonstrated include data cleaning, structured formulas, pivot tables, Po
 
 ![Statistics and Data Analysis with Excel](./images/Excel_Statistics_and_Data_Analysis.png)
 
+![Excel Skills for Business Forecasting](./images/Excel_for_Business_Forecasting.png)
+
 Note to self: Data Analysis and Visualization has good, undone practice problems.
